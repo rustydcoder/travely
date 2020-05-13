@@ -1,5 +1,7 @@
-#Basic Landing Page For Beginner
+# Basic Landing Page For Beginner
 
-###HTML
-###BOOTSTRAP 4
-###SASS
+## USED
+
+- HTML
+- BOOTSTRAP 4
+- SASS
